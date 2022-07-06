@@ -18,6 +18,14 @@
 
  }
 
+ .background-pic-inv{
+        background-image: url(img/california.jpg);
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+ }
+
  .navbar-brand{
          background-image:url(logo.png);
  }
